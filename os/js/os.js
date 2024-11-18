@@ -14,8 +14,8 @@ var currentApp = "home",
     themeData = [],
     themes = null,
     plugins = null,
-    version = "2.0.0.0-beta15.2",
-    versionNickname = "New Shoe";
+    version = "1.0.0.0",
+    versionNickname = "Release";
 
 function loadSettingsScreen(prescreen) {
     var screen = "string" == typeof prescreen ? settingsMenu.indexOf(settingsMenu.find((me => me.screenName == prescreen))) : prescreen;
