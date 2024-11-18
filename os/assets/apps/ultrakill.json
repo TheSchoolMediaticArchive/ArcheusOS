@@ -1,11 +1,11 @@
 {
-    "name": "Developer Tester",
+    "name": "Ultrakill",
     "desc": "A tool for Clockwork devs - not useful for most other users.",
-    "url": "/devtest/",
+    "url": "https://theschoolmediaticarchive.github.io/CDG/ReactorGame",
     "encodedUrl": "no",
     "icon": "/assets/images/icon.png",
     "version": "1.0.0",
-    "author": "LukasExists",
+    "author": "???",
     "permissions": [
         "installPlugin"
     ]
